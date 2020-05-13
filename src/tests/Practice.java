@@ -6,6 +6,9 @@ public class Practice {
 
         System.out.println("hello test git");
         System.out.println("New add and commit");
+        //-----------------------------------
+        System.out.println("It is for pull");
+     
 
     }
 }
